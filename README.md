@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=Building+AI-powered+systems;Designing+modern+full-stack+applications;Creating+immersive+digital+experiences;Engineering+automation+workflows;Transforming+ideas+into+scalable+products" alt="Typing SVG" />
 
 [![Website](https://img.shields.io/badge/Website-jerohalili.is--a.dev-14B8A6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jerohalili.is-a.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projects%20%26%20Work-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://jerohalili.is-a.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects%20%26%20Work-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://jerohalili.is-a.dev/projects)
 [![GitHub Followers](https://img.shields.io/github/followers/jerohalili?style=for-the-badge&color=14B8A6)](https://github.com/jerohalili)
 [![Profile Views](https://komarev.com/ghpvc/?username=jerohalili&style=for-the-badge&color=14B8A6)](https://github.com/jerohalili)
 
