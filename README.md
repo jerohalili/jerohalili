@@ -9,7 +9,6 @@
 [![Website](https://img.shields.io/badge/Website-jerohalili.is--a.dev-14B8A6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jerohalili.is-a.dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Projects%20%26%20Work-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://jerohalili.is-a.dev/projects)
 [![GitHub Followers](https://img.shields.io/github/followers/jerohalili?style=for-the-badge&color=14B8A6)](https://github.com/jerohalili)
-[![Profile Views](https://komarev.com/ghpvc/?username=jerohalili&style=for-the-badge&color=14B8A6)](https://github.com/jerohalili)
 
 </div>
 
