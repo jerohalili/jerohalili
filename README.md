@@ -17,7 +17,7 @@
 
 # About Me
 
-<img src="WILL_ADD_IMAGE_HERE" align="right" width="240" style="border-radius: 16; margin-left: 20;" />
+<img src="./assets/coco flying.png" align="right" width="240" style="border-radius: 16; margin-left: 20;" />
 
 I build intelligent systems, scalable applications, and immersive digital experiences that combine engineering, creativity, automation, and design.
 
