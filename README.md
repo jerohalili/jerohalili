@@ -17,43 +17,27 @@
 
 # About Me
 
-<img src="./assets/coco flying.png" align="right" width="240" style="border-radius: 16; margin-left: 20;" />
+<img src="./assets/coco flying.png" align="right" width="180" style="border-radius: 12px; margin-left: 15px; margin-bottom: 10px;" />
 
-I build intelligent systems, scalable applications, and immersive digital experiences that combine engineering, creativity, automation, and design.
+I’m a Computer Scientist and AI Engineer focused on building intelligent, scalable systems that bridge the gap between engineering and creative design. I specialize in turning complex logic into high-performance, user-centric applications.
 
 My work focuses on AI engineering, full stack development, workflow automation, and interactive technologies — creating products that are technically strong, visually polished, and user-focused.
 
 I enjoy solving complex problems, designing efficient systems, and transforming ideas into real-world products with clean architecture and thoughtful execution.
 
-**Core focus areas:**
-- AI-powered applications
-- Local LLM ecosystems
-- Automation workflows
-- Full stack platforms
-- Game development (Godot)
-- Creative technology & branding
+**Core focus:** `AI Engineering` • `Local LLMs` • `Automation` • `Full Stack` • `Game Dev` • `Creative Tech`
 
-<br clear="right"/>
+---
 
 <br>
 
-# Tech Stack
+# Tech Stack & Specialized Technologies
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cs,c,php,dart" />
+### Languages & Framework
+<img src="https://skillicons.dev/icons?i=python,typescript,js,java,cs,c,php,dart,react,nextjs,astro,tailwind,nodejs,express" />
 
-### Frontend & Full Stack
-<img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,nodejs,express,html,css" />
-
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=fastapi,mongodb,mysql,postgresql,firebase,docker" />
-
-### AI / Automation / Creative
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postman,godot,figma,photoshop,illustrator" />
-
-<br>
-
-# Specialized Technologies
+### Backend, DBs & Tools
+<img src="https://skillicons.dev/icons?i=fastapi,mongodb,mysql,postgres,firebase,docker,pytorch,tensorflow,postman,godot,figma,ps,ai" />
 
 ### AI Engineering
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
