@@ -27,8 +27,6 @@ I enjoy solving complex problems, designing efficient systems, and transforming 
 
 **Core focus:** `AI Engineering` • `Local LLMs` • `Automation` • `Full Stack` • `Game Dev` • `Creative Tech`
 
----
-
 <br>
 
 # Tech Stack & Specialized Technologies
