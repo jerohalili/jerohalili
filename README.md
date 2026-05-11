@@ -76,8 +76,7 @@ I enjoy solving complex problems, designing efficient systems, and transforming 
 # GitHub Analytics and Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jerohalili&theme=tokyonight&hide_border=true" height="185" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jerohalili&theme=tokyo-night&hide_border=true" height="185" />
+  <img src="https://streak-stats.demolab.com?user=jerohalili&theme=tokyonight&hide_border=true" height="180" />&nbsp;&nbsp;<img src="https://github-readme-activity-graph.vercel.app/graph?username=jerohalili&theme=tokyo-night&hide_border=true" height="180" />
 </p>
 
 <br>
