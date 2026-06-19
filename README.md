@@ -31,10 +31,10 @@ I enjoy solving complex problems, designing efficient systems, and transforming 
 # Tech Stack & Specialized Technologies
 
 ### Languages & Framework
-<img src="https://skillicons.dev/icons?i=python,typescript,js,java,cs,c,php,dart,react,nextjs,astro,tailwind,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=python,typescript,js,php,dart,react,nextjs,astro,tailwind,nodejs,express" />
 
 ### Backend, DBs & Tools
-<img src="https://skillicons.dev/icons?i=fastapi,mongodb,mysql,postgres,firebase,docker,pytorch,tensorflow,postman,godot,figma,ps,ai" />
+<img src="https://skillicons.dev/icons?i=fastapi,mongodb,mysql,postgres,firebase,docker,pytorch,tensorflow" />
 
 ### AI Engineering
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -42,8 +42,6 @@ I enjoy solving complex problems, designing efficient systems, and transforming 
 ![TensorRT](https://img.shields.io/badge/TensorRT-3B82F6?style=for-the-badge&logo=nvidia&logoColor=white)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-0ea5e9?style=for-the-badge)
 ![AnythingLLM](https://img.shields.io/badge/AnythingLLM-14B8A6?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-3B82F6?style=for-the-badge)
-![SBERT](https://img.shields.io/badge/SBERT-14B8A6?style=for-the-badge)
 
 ### Development & Automation
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
@@ -54,31 +52,9 @@ I enjoy solving complex problems, designing efficient systems, and transforming 
 
 <br>
 
-# GitHub Analytics and Contribution Activity
+# GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jerohalili&theme=tokyonight&hide_border=true" width="43%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jerohalili&theme=tokyo-night&hide_border=true" width="48%" />
 </p>
-
-<br>
-
-# Philosophy
-
-<div align="center">
-
-### Engineering is not just building systems — it is shaping experiences.
-
-I focus on creating technology that is:
-Useful (solves real problems),
-Scalable (works beyond prototypes),
-Clean (easy to maintain and extend),
-Human-centered (feels natural to use).
-
-Every system I build is designed to connect logic, creativity, and usability into one coherent experience.
-
-<br/>
-
-[![Visit Website](https://img.shields.io/badge/Visit%20My%20Website-jerohalili.is--a.dev-14B8A6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jerohalili.is-a.dev)
-
-</div>
