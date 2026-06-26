@@ -36,15 +36,12 @@ I enjoy solving complex problems, designing efficient systems, and transforming 
 ### Backend, DBs & Tools
 <img src="https://skillicons.dev/icons?i=fastapi,mongodb,mysql,postgres,firebase,docker,pytorch,tensorflow" />
 
-### AI Engineering
+### AI Engineering & Automation
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-3B82F6?style=for-the-badge&logo=nvidia&logoColor=white)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-0ea5e9?style=for-the-badge)
 ![AnythingLLM](https://img.shields.io/badge/AnythingLLM-14B8A6?style=for-the-badge)
-
-### Development & Automation
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-0ea5e9?style=for-the-badge)
