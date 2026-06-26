@@ -44,8 +44,6 @@ I enjoy solving complex problems, designing efficient systems, and transforming 
 ![AnythingLLM](https://img.shields.io/badge/AnythingLLM-14B8A6?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-0ea5e9?style=for-the-badge)
-![Workflow](https://img.shields.io/badge/Workflow-3B82F6?style=for-the-badge)
 
 <br>
 
