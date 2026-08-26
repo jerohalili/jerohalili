@@ -44,12 +44,3 @@ I enjoy solving complex problems, designing efficient systems, and transforming 
 ![AnythingLLM](https://img.shields.io/badge/AnythingLLM-14B8A6?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-<br>
-
-# GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jerohalili&theme=tokyonight&hide_border=true" width="43%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jerohalili&theme=tokyo-night&hide_border=true" width="48%" />
-</p>
